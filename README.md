@@ -1,1 +1,1 @@
-Data science class group project using Spotify data to learn SQL
+Database group project that searches database based on user input using SQL
